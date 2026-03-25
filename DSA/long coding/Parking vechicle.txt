@@ -1,4 +1,3 @@
-Rithiha✨:
 import java.util.*;
 class Vehicle {
     private String vehicleNumber;
